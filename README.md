@@ -54,6 +54,8 @@ python ejercicio1.py
 4. Solicita una explicación sobre **Inferencia en Inteligencia Artificial** en menos de 50 palabras.
 5. Muestra la respuesta generada por Gemini.
 
+<img width="1600" height="858" alt="image" src="https://github.com/user-attachments/assets/6b553c63-0f12-45f5-8844-50d24c1bf6dc" />
+
 
 # Ejercicio 2 – Procesador de textos inteligente
 
@@ -69,6 +71,12 @@ python ejercicio2.py
 4. Analiza el texto recibido.
 5. Ejecuta la tarea seleccionada.
 6. Devuelve el texto procesado.
+
+<img width="1600" height="853" alt="image" src="https://github.com/user-attachments/assets/e7ef44b4-f515-4f7f-83e8-0464d060221d" />
+<img width="1600" height="853" alt="image" src="https://github.com/user-attachments/assets/401aff3a-4e3c-4916-be48-b39f22b2954c" />
+<img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/4b07167d-a557-4d29-8aeb-88dca1f6591f" />
+
+
 
 # Ejercicio 3 – Chat de soporte con historial (Few-Shot)
 
@@ -105,3 +113,8 @@ El programa realiza las siguientes acciones:
 5. Inicia un chat interactivo.
 6. Mantiene el contexto entre preguntas.
 7. Finaliza únicamente cuando el usuario escribe **finalizar**.
+
+<img width="1600" height="861" alt="image" src="https://github.com/user-attachments/assets/8ee79ec4-8606-491e-9a15-793cf574d8f7" />
+<img width="1600" height="851" alt="image" src="https://github.com/user-attachments/assets/84c8f3fe-a6e3-48c8-ac89-3e1783403015" />
+
+
